@@ -1,0 +1,17 @@
+Stations
+Birmingham 11 30
+London 50 195
+Canterbury 110 245
+Cambridge 102 42
+Kings-Lynn 201 15
+Southend 205 118
+Ipswich 238 120
+Norwich 228 23
+Links
+Birmingham London 16.5
+London Canterbury 5
+Canterbury Cambridge 20.3
+Cambridge Kings-Lynn 2.7
+Kings-Lynn Southend 10.3
+Southend Ipswich 3.3
+Ipswich Norwich 9.7
